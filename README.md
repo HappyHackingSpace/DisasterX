@@ -4,6 +4,8 @@ This repository aims to bring together a community focused on developing IoT (In
 
 Currently, we do not have a specific project idea, but this repository serves as a starting point for brainstorming and collaboration. The goal is to create a space where different ideas can be developed, and open-source solutions can be shared to help mitigate the impact of earthquakes.
 
+![Earthquake Disaster Solutions](earthquake.jpg)
+
 ## Share Your Ideas
 
 - **IoT Devices:** We can create sensors and devices capable of collecting data during an earthquake.
