@@ -1,4 +1,4 @@
-# Earthquake Disaster Solutions with IoT and Technology - Call for Collaboration
+# Earthquake Disaster Solutions with IoT and Technology
 
 This repository aims to bring together a community focused on developing IoT (Internet of Things) and technology-based solutions for natural disasters like earthquakes. Earthquakes are sudden events that can cause significant harm and loss of life, but with the help of technology and IoT devices, we can work towards creating life-saving solutions.
 
