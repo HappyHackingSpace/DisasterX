@@ -9,6 +9,7 @@ Currently, we do not have a specific project idea, but this repository serves as
 ## Share Your Ideas
 
 - **IoT Devices:** We can create sensors and devices capable of collecting data during an earthquake.
+- **Rescue Team Support:** Develop IoT devices specifically designed to assist rescue teams during operations. These devices could include wearable sensors to monitor team members' health, communication tools for coordination, and equipment trackers to locate essential tools in real time.
 - **Early Warning Systems:** We can develop software and algorithms to predict earthquakes earlier.
 - **Emergency Apps:** We can design mobile applications to help ensure the safety of users during and after an earthquake.
 - **Data Analytics and Visualization:** We can analyze and visualize earthquake data to better understand trends and risks.
